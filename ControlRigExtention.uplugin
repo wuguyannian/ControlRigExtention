@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ControlRigExtention",
+	"Description": "Control Rig Extention for My Tutorial",
+	"Category": "Animation",
+	"CreatedBy": "Wuguyannian",
+	"CreatedByURL": "https://wuguyannian.com/",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": true,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "ControlRig",
+			"Enabled": true
+		}
+	],
+	"Modules": [
+		{
+			"Name": "ControlRigExtention",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [ "Win64" ]
+		}
+	]
+}
